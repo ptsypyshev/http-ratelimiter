@@ -1,4 +1,4 @@
-APP=shortlink
+APP=http-ratelimit
 .PHONY: help
 help: Makefile ## Show this help
 	@echo
